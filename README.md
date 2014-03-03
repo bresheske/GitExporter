@@ -8,3 +8,5 @@
 <p>Simply running the tool will result in the output: </p>
 <img src="http://i.imgur.com/JG6Z88I.png" alt="Help menu" />
 <p>Filling in some of the parameters with useful data (taken from your git repository):</p>
+<img src="http://i.imgur.com/uRog1yu.png" alt="git exporting" />
+<p>And you have completed an export of the changed files between the two commits.</p>
